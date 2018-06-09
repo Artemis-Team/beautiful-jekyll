@@ -23,12 +23,11 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://artemis-team.github.io"
+   Home: "http://artemis-team.github.io"
     
   
 
@@ -76,7 +75,7 @@ social-network-links:
   rss: true
   email: "nibirule@gmail.com"
 #  facebook: daattali
-#  github: "https://github.com/Artemis-Team"
+   github: "https://github.com/Artemis-Team"
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -84,10 +83,10 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: "https://www.instagram.com/artemis_team/"
-#  youtube: "https://www.youtube.com/channel/UClqp_SYjC4K9yVDwZb903QA"
+   instagram: "https://www.instagram.com/artemis_team/"
+   youtube: "https://www.youtube.com/channel/UClqp_SYjC4K9yVDwZb903QA"
 #  spotify: yourname
-#  telephone: "+917418482388"
+   telephone: "+917418482388"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
